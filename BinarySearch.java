@@ -24,7 +24,7 @@ public class BinarySearch {
 		// TODO Auto-generated method stub
 
 		///int[] bs = {2,4,6,10,9,14,16,18,20};
-		int bs [] = {3, 6, 13, 3, 9, 10, 14, 6, 9, 13};
+//		int bs [] = {3, 6, 13, 3, 9, 10, 14, 6, 9, 13};
 		int low =0;
 		int high= bs.length;
 		int keys = 10;
